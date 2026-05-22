@@ -56,19 +56,19 @@ buscando: Novas oportunidades (Remoto / Híbrido)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfernandessc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=b8c4d4&ring_color=70a5fd"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfernandessc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=b8c4d4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfernandessc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=b8c4d4&ring_color=70a5fd&cache_seconds=86400&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfernandessc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=b8c4d4&cache_seconds=86400&locale=pt-br"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielfernandessc&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2d5986&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=b8c4d4&dates=555a6e"/>
+  <img src="https://streak-stats.demolab.com/?user=gabrielfernandessc&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2d5986&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=b8c4d4&dates=555a6e&locale=pt_BR"/>
 </div>
 
 <br>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfernandessc&bg_color=1a1b27&color=b8c4d4&line=70a5fd&point=bf91f3&area=true&area_color=70a5fd&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfernandessc&bg_color=1a1b27&color=b8c4d4&line=70a5fd&point=bf91f3&area=true&area_color=70a5fd&hide_border=true&custom_title=Gráfico%20de%20Contribuições"/>
 </div>
 
 <br>

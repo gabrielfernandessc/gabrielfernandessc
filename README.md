@@ -56,8 +56,17 @@ buscando: Novas oportunidades (Remoto / Híbrido)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfernandessc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=b8c4d4&ring_color=70a5fd&cache_seconds=86400&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfernandessc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=b8c4d4&cache_seconds=86400&locale=pt-br"/>
+  <img height="180em" src="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/cards/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats"/>
+  <img height="180em" src="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/cards/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/cards/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit"/>
+  <img height="180em" src="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/cards/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/cards/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details"/>
 </div>
 
 <div align="center">
@@ -68,7 +77,7 @@ buscando: Novas oportunidades (Remoto / Híbrido)
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfernandessc&bg_color=1a1b27&color=b8c4d4&line=70a5fd&point=bf91f3&area=true&area_color=70a5fd&hide_border=true&custom_title=Gráfico%20de%20Contribuições"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfernandessc&bg_color=1a1b27&color=b8c4d4&line=70a5fd&point=bf91f3&area=true&area_color=70a5fd&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es"/>
 </div>
 
 <br>

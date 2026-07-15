@@ -52,27 +52,6 @@ buscando: Novas oportunidades (Remoto / Híbrido)
 
 <br>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="./github-languages.svg" alt="Top Languages" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabrielfernandessc&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2d5986&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=b8c4d4&dates=555a6e&locale=pt_BR"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielfernandessc&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
-</div>
-
-<br>
-
 <!-- Currently Learning -->
 ## 📚 Estudando atualmente
 

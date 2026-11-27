@@ -62,24 +62,6 @@ buscando: Novas oportunidades (Remoto / Híbrido)
 
 <br>
 
-<!-- Featured Projects -->
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-| Projeto | O que é | Stack |
-|:---|:---|:---|
-| [**Design Hub**](https://github.com/gabrielfernandessc/design-hub) | Portal de chamados e solicitações de design para equipes criativas | TypeScript · Bun · Turborepo |
-| [**CNA · Competição dos Anúncios**](https://github.com/gabrielfernandessc/gfsc) | Placar mobile-first da turma, com ranking e PWA · [ver online](https://gfsc-rouge.vercel.app) | JavaScript · Vercel |
-| [**Cadastro de Jovens ELIM**](https://github.com/gabrielfernandessc/form) | Formulário de cadastro integrado ao Google Sheets · [ver online](https://gabrielfernandessc.github.io/form/) | HTML · CSS · JS |
-| [**Oásis Galerias**](https://github.com/gabrielfernandessc/oasisigreja-gallery) | Galerias de fotos da Igreja Oásis embutidas no InChurch | HTML · GitHub Pages |
-| [**Filho, volta pra casa**](https://github.com/gabrielfernandessc/the-waiting-arms) | Landing page de evento da Igreja Oásis | React · TypeScript · Vite |
-| [**Amore in Tazza**](https://github.com/gabrielfernandessc/amoreintazza) | Site de canecas personalizadas · [ver online](https://gabrielfernandessc.github.io/amoreintazza/) | HTML · GitHub Pages |
-
-</div>
-
-<br>
-
 <!-- Currently Learning -->
 ## 📚 Estudando atualmente
 

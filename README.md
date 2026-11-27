@@ -46,7 +46,35 @@ buscando: Novas oportunidades (Remoto / Híbrido)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### ☁️ Backend & Deploy
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+</div>
+
+<br>
+
+<!-- Featured Projects -->
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+| Projeto | O que é | Stack |
+|:---|:---|:---|
+| [**Design Hub**](https://github.com/gabrielfernandessc/design-hub) | Portal de chamados e solicitações de design para equipes criativas | TypeScript · Bun · Turborepo |
+| [**CNA · Competição dos Anúncios**](https://github.com/gabrielfernandessc/gfsc) | Placar mobile-first da turma, com ranking e PWA · [ver online](https://gfsc-rouge.vercel.app) | JavaScript · Vercel |
+| [**Cadastro de Jovens ELIM**](https://github.com/gabrielfernandessc/form) | Formulário de cadastro integrado ao Google Sheets · [ver online](https://gabrielfernandessc.github.io/form/) | HTML · CSS · JS |
+| [**Oásis Galerias**](https://github.com/gabrielfernandessc/oasisigreja-gallery) | Galerias de fotos da Igreja Oásis embutidas no InChurch | HTML · GitHub Pages |
+| [**Filho, volta pra casa**](https://github.com/gabrielfernandessc/the-waiting-arms) | Landing page de evento da Igreja Oásis | React · TypeScript · Vite |
+| [**Amore in Tazza**](https://github.com/gabrielfernandessc/amoreintazza) | Site de canecas personalizadas · [ver online](https://gabrielfernandessc.github.io/amoreintazza/) | HTML · GitHub Pages |
 
 </div>
 

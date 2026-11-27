@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-label="Laboratório: seis projetos pessoais de Gabriel Fernandes">
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .card { fill: #111a2e; stroke: #22304d; }
+      .ibox { fill: #16213a; }
+      .t { fill: #ffffff; font-size: 19px; font-weight: 700; }
+      .k { fill: #70a5fd; font-size: 12px; }
+      .d { fill: #c9d1d9; font-size: 14px; }
+      .chip { fill: #0b1020; stroke: #2d3b5c; }
+      .ct { fill: #b8c4d4; font-size: 11.5px; }
+      .lock { fill: #8b949e; font-size: 11.5px; }
+    </style>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#70a5fd"/><stop offset="1" stop-color="#3fb950"/></linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="559" rx="16" fill="#0b1020" stroke="#1f2a44"/>
+  <text x="24" y="38" class="mono" style="font-size:14px"><tspan fill="#70a5fd">~/laboratorio</tspan><tspan fill="#8b949e">  $ ls --coisas-que-eu-construi</tspan></text>
+  <rect x="402" y="27" width="9" height="15" fill="#70a5fd"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+
+  <!-- 1 Neural Fly Swatter -->
+  <g transform="translate(24 64)" opacity="0">
+    <animate attributeName="opacity" to="1" begin="0.2s" dur="0.6s" fill="freeze"/>
+    <rect class="card" x="0.5" y="0.5" width="303" height="219" rx="14"/>
+    <rect class="ibox" x="20" y="20" width="52" height="52" rx="12"/>
+    <g transform="translate(46 47)">
+      <ellipse rx="5" ry="8" fill="#e6edf3"/>
+      <ellipse cx="-9" cy="-4" rx="9" ry="4.5" fill="#70a5fd" opacity="0.8"><animateTransform attributeName="transform" type="rotate" values="-25 -1 -2;20 -1 -2;-25 -1 -2" dur="0.18s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="9" cy="-4" rx="9" ry="4.5" fill="#70a5fd" opacity="0.8"><animateTransform attributeName="transform" type="rotate" values="25 1 -2;-20 1 -2;25 1 -2" dur="0.18s" repeatCount="indefinite"/></ellipse>
+      <animateTransform attributeName="transform" type="translate" values="46 47;41 43;50 45;44 50;46 47" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+    <text x="88" y="42" class="sans t">Neural Fly Swatter</text>
+    <text x="88" y="62" class="mono k">jogo · neurociência</text>
+    <text class="sans d"><tspan x="20" y="106">Mata-moscas em que a mosca é pilotada</tspan><tspan x="20" y="126">por um conectoma real: 21.739 neurônios</tspan><tspan x="20" y="146">simulados mil vezes por segundo.</tspan></text>
+    <g class="mono" transform="translate(20 174)">
+      <rect class="chip" width="58" height="24" rx="12"/><text x="29" y="16" text-anchor="middle" class="ct">Python</text>
+      <rect class="chip" x="64" width="58" height="24" rx="12"/><text x="93" y="16" text-anchor="middle" class="ct">Numba</text>
+      <rect class="chip" x="128" width="66" height="24" rx="12"/><text x="161" y="16" text-anchor="middle" class="ct">pygame</text>
+    </g>
+    <text x="286" y="34" text-anchor="end" class="lock" style="font-size:13px"><title>repositório privado</title>🔒</text>
+  </g>
+
+  <!-- 2 PeakLens -->
+  <g transform="translate(348 64)" opacity="0">
+    <animate attributeName="opacity" to="1" begin="0.4s" dur="0.6s" fill="freeze"/>
+    <rect class="card" x="0.5" y="0.5" width="303" height="219" rx="14"/>
+    <rect class="ibox" x="20" y="20" width="52" height="52" rx="12"/>
+    <clipPath id="pk"><rect x="20" y="20" width="52" height="52" rx="12"/></clipPath>
+    <g clip-path="url(#pk)">
+      <path d="M24 62 L36 42 L43 51 L52 34 L68 62 Z" fill="#2d5986"/>
+      <path d="M48 41 L52 34 L56 41 Z" fill="#e6edf3"/>
+      <rect x="20" y="20" width="2" height="52" fill="#3fb950" opacity="0.9"><animate attributeName="x" values="20;70;20" dur="3s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="88" y="42" class="sans t">PeakLens</text>
+    <text x="88" y="62" class="mono k">app · mapas · AR</text>
+    <text class="sans d"><tspan x="20" y="106">Aponte o celular e descubra o nome</tspan><tspan x="20" y="126">das montanhas que você está vendo.</tspan><tspan x="20" y="146">Começando pelo Rio de Janeiro.</tspan></text>
+    <g class="mono" transform="translate(20 174)">
+      <rect class="chip" width="48" height="24" rx="12"/><text x="24" y="16" text-anchor="middle" class="ct">Rust</text>
+      <rect class="chip" x="54" width="58" height="24" rx="12"/><text x="83" y="16" text-anchor="middle" class="ct">Kotlin</text>
+      <rect class="chip" x="118" width="66" height="24" rx="12"/><text x="151" y="16" text-anchor="middle" class="ct">Android</text>
+    </g>
+    <text x="286" y="34" text-anchor="end" class="lock" style="font-size:13px"><title>repositório privado</title>🔒</text>
+  </g>
+
+  <!-- 3 Gerador de KB -->
+  <g transform="translate(672 64)" opacity="0">
+    <animate attributeName="opacity" to="1" begin="0.6s" dur="0.6s" fill="freeze"/>
+    <rect class="card" x="0.5" y="0.5" width="303" height="219" rx="14"/>
+    <rect class="ibox" x="20" y="20" width="52" height="52" rx="12"/>
+    <rect x="32" y="28" width="28" height="36" rx="4" fill="none" stroke="#e6edf3" stroke-width="2"/>
+    <rect x="37" y="36" width="0" height="3" rx="1.5" fill="#70a5fd"><animate attributeName="width" values="0;18;18;0" keyTimes="0;0.3;0.85;1" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="37" y="44" width="0" height="3" rx="1.5" fill="#8b949e"><animate attributeName="width" values="0;0;14;14;0" keyTimes="0;0.2;0.5;0.85;1" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="37" y="52" width="0" height="3" rx="1.5" fill="#8b949e"><animate attributeName="width" values="0;0;16;16;0" keyTimes="0;0.4;0.7;0.85;1" dur="3s" repeatCount="indefinite"/></rect>
+    <text x="88" y="42" class="sans t">Gerador de KB</text>
+    <text x="88" y="62" class="mono k">ferramenta · ITSM</text>
+    <text class="sans d"><tspan x="20" y="106">Editor visual de artigos de Knowledge</tspan><tspan x="20" y="126">Base, com preview e PDF, prontos para</tspan><tspan x="20" y="146">colar no ServiceNow.</tspan></text>
+    <g class="mono" transform="translate(20 174)">
+      <rect class="chip" width="56" height="24" rx="12"/><text x="28" y="16" text-anchor="middle" class="ct">React</text>
+      <rect class="chip" x="62" width="34" height="24" rx="12"/><text x="79" y="16" text-anchor="middle" class="ct">TS</text>
+      <rect class="chip" x="102" width="48" height="24" rx="12"/><text x="126" y="16" text-anchor="middle" class="ct">Vite</text>
+    </g>
+    <text x="286" y="34" text-anchor="end" class="lock" style="font-size:13px"><title>repositório privado</title>🔒</text>
+  </g>
+
+  <!-- 4 Missão Secreta -->
+  <g transform="translate(24 304)" opacity="0">
+    <animate attributeName="opacity" to="1" begin="0.8s" dur="0.6s" fill="freeze"/>
+    <rect class="card" x="0.5" y="0.5" width="303" height="219" rx="14"/>
+    <rect class="ibox" x="20" y="20" width="52" height="52" rx="12"/>
+    <g fill="#e6edf3">
+      <rect x="30" y="30" width="10" height="10"/><rect x="52" y="30" width="10" height="10"/><rect x="30" y="52" width="10" height="10"/>
+      <rect x="44" y="44" width="4" height="4"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+      <rect x="54" y="48" width="4" height="4"><animate attributeName="opacity" values="0;1;0" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="48" y="56" width="4" height="4"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+      <rect x="58" y="58" width="4" height="4"><animate attributeName="opacity" values="0;1;0" dur="0.7s" repeatCount="indefinite"/></rect>
+      <rect x="44" y="32" width="4" height="4"><animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="88" y="42" class="sans t">Missão Secreta</text>
+    <text x="88" y="62" class="mono k">jogo · casamentos</text>
+    <text class="sans d"><tspan x="20" y="106">Jogo de fotos para festas de casamento:</tspan><tspan x="20" y="126">cartões com missões e QR code, álbum</tspan><tspan x="20" y="146">compartilhado e ranking ao vivo.</tspan></text>
+    <g class="mono" transform="translate(20 174)">
+      <rect class="chip" width="34" height="24" rx="12"/><text x="17" y="16" text-anchor="middle" class="ct">TS</text>
+      <rect class="chip" x="40" width="82" height="24" rx="12"/><text x="81" y="16" text-anchor="middle" class="ct">Cloudflare</text>
+      <rect class="chip" x="128" width="72" height="24" rx="12"/><text x="164" y="16" text-anchor="middle" class="ct">Supabase</text>
+    </g>
+    <text x="286" y="34" text-anchor="end" class="lock" style="font-size:13px"><title>repositório privado</title>🔒</text>
+  </g>
+
+  <!-- 5 .COM Portal -->
+  <g transform="translate(348 304)" opacity="0">
+    <animate attributeName="opacity" to="1" begin="1.0s" dur="0.6s" fill="freeze"/>
+    <rect class="card" x="0.5" y="0.5" width="303" height="219" rx="14"/>
+    <rect class="ibox" x="20" y="20" width="52" height="52" rx="12"/>
+    <g fill="#2d3b5c"><rect x="28" y="28" width="10" height="36" rx="2"/><rect x="41" y="28" width="10" height="36" rx="2"/><rect x="54" y="28" width="10" height="36" rx="2"/></g>
+    <rect x="29" y="31" width="8" height="6" rx="1.5" fill="#70a5fd">
+      <animate attributeName="x" values="29;29;42;42;55;55;29" keyTimes="0;0.2;0.33;0.53;0.66;0.9;1" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#70a5fd;#70a5fd;#f2cc60;#f2cc60;#3fb950;#3fb950;#70a5fd" keyTimes="0;0.2;0.33;0.53;0.66;0.9;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="29" y="40" width="8" height="6" rx="1.5" fill="#8b949e"/><rect x="55" y="40" width="8" height="6" rx="1.5" fill="#3fb950" opacity="0.6"/>
+    <text x="88" y="42" class="sans t">.COM Portal</text>
+    <text x="88" y="62" class="mono k">web app · igreja</text>
+    <text class="sans d"><tspan x="20" y="106">Pedidos de arte do ministério de</tspan><tspan x="20" y="126">comunicação de uma igreja, do formulário</tspan><tspan x="20" y="146">ao quadro kanban da equipe.</tspan></text>
+    <g class="mono" transform="translate(20 174)">
+      <rect class="chip" width="62" height="24" rx="12"/><text x="31" y="16" text-anchor="middle" class="ct">Next.js</text>
+      <rect class="chip" x="68" width="72" height="24" rx="12"/><text x="104" y="16" text-anchor="middle" class="ct">Supabase</text>
+    </g>
+    <text x="286" y="34" text-anchor="end" class="lock" style="font-size:13px"><title>repositório privado</title>🔒</text>
+  </g>
+
+  <!-- 6 Toca-Discos 3D -->
+  <g transform="translate(672 304)" opacity="0">
+    <animate attributeName="opacity" to="1" begin="1.2s" dur="0.6s" fill="freeze"/>
+    <rect class="card" x="0.5" y="0.5" width="303" height="219" rx="14"/>
+    <rect class="ibox" x="20" y="20" width="52" height="52" rx="12"/>
+    <g transform="translate(46 46)">
+      <g>
+        <circle r="19" fill="#05070d"/><circle r="15" fill="none" stroke="#1f2a44"/><circle r="11" fill="none" stroke="#1f2a44"/>
+        <circle r="6" fill="#f2cc60"/><circle r="1.5" fill="#05070d"/>
+        <path d="M0 -19 A19 19 0 0 1 13 -14" stroke="#70a5fd" stroke-width="2" fill="none"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="1.8s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <text x="88" y="42" class="sans t">Toca-Discos 3D</text>
+    <text x="88" y="62" class="mono k">3D · música</text>
+    <text class="sans d"><tspan x="20" y="106">Um toca-discos vintage em 3D que toca</tspan><tspan x="20" y="126">a sua pasta local de músicas, direto</tspan><tspan x="20" y="146">no navegador.</tspan></text>
+    <g class="mono" transform="translate(20 174)">
+      <rect class="chip" width="70" height="24" rx="12"/><text x="35" y="16" text-anchor="middle" class="ct">three.js</text>
+      <rect class="chip" x="76" width="40" height="24" rx="12"/><text x="96" y="16" text-anchor="middle" class="ct">JS</text>
+    </g>
+    <text x="286" y="34" text-anchor="end" class="lock" style="font-size:13px"><title>repositório privado</title>🔒</text>
+  </g>
+
+  <rect x="24" y="542" width="952" height="3" rx="1.5" fill="url(#g)" opacity="0.5"/>
+</svg>

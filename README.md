@@ -1,111 +1,152 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d5986,100:70a5fd&height=200&section=header&text=Gabriel%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Endpoint%20Management%20%7C%20Modern%20Workplace%20%7C%20Web%20Development&descSize=16&descAlignY=55&descColor=b8c4d4"/>
+<img src="assets/boot.svg" width="100%" alt="Terminal instalando os perfis de Gabriel Fernandes: Endpoint Management, Desenvolvimento Web e café. Status: compliant." />
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Analista+de+Suporte+Pleno+%40+Stefanini;Microsoft+Intune+%7C+Jamf+%7C+MDM;Windows+%2F+macOS+Endpoint+Management;Estudante+de+Desenvolvimento+Web+%F0%9F%9A%80;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+<sub>↑ o dispositivo <b>Gabriel Fernandes</b> acabou de passar na verificação de conformidade. Se perdeu a animação, recarregue a página.</sub>
 
 </div>
 
-<!-- About Me -->
-## 🧑‍💻 Sobre mim
+<br>
 
-```yaml
-nome: Gabriel Fernandes
-local: Rio de Janeiro, RJ - Brasil
-cargo_atual: Analista de Suporte Pleno
-empresa: Stefanini Brasil
-educação: Estácio
-foco: Modern Workplace & Endpoint Management
-estudando: Desenvolvimento Web (HTML/CSS, JavaScript, React, Vue.js)
-buscando: Novas oportunidades (Remoto / Híbrido)
+De dia eu cuido de **computadores corporativos** que precisam estar seguros, atualizados e em conformidade: Windows e macOS, com Intune e Jamf.
+De noite eu construo **coisas que não precisavam existir, mas agora existem**: uma mosca com cérebro de verdade, um app que diz o nome das montanhas, um toca-discos 3D.
+
+<br>
+
+## 🧭 Escolha seu caminho
+
+<details>
+<summary><b>💼 Sou recrutador(a)</b> · <i>o resumo em 20 segundos</i></summary>
+
+<br>
+
+| | |
+|:--|:--|
+| **Cargo atual** | Analista de Suporte Pleno @ Stefanini Brasil |
+| **Especialidade** | Modern Workplace e Endpoint Management (Microsoft Intune, Jamf Pro, Autopilot, MDM) |
+| **Também faço** | Aplicações web completas: front, banco, deploy e automações |
+| **Formação** | Análise e Desenvolvimento de Sistemas · Estácio |
+| **Onde** | Rio de Janeiro, RJ · aberto a remoto ou híbrido |
+| **Diferencial** | Eu crio as ferramentas que o suporte precisa: geradores de KB para o ServiceNow, processadores de CSV para o Autopilot, plataformas de treinamento |
+
+**Próximo passo:** [me chama no LinkedIn](https://www.linkedin.com/in/gabrielfsc002/) 👋
+
+</details>
+
+<details>
+<summary><b>👨‍💻 Sou dev</b> · <i>me mostra a stack</i></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,bun,supabase,postgres&perline=10" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Node.js, Bun, Supabase, Postgres" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,rust,kotlin,androidstudio,threejs,cloudflare,vercel,docker,git,github&perline=10" alt="Python, Rust, Kotlin, Android Studio, three.js, Cloudflare, Vercel, Docker, Git, GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Intune" />
+  <img src="https://img.shields.io/badge/Jamf_Pro-6C2D91?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Pro" />
+  <img src="https://img.shields.io/badge/Autopilot-2C2C2C?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Autopilot" />
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+**Como eu costumo trabalhar:** protótipo rápido (Lovable ou Claude Code) → TypeScript com Supabase → deploy na Vercel ou na Cloudflare → itera com quem usa de verdade.
+
+</details>
+
+<details>
+<summary><b>🪰 Só tô curioso(a)</b> · <i>me conta algo estranho</i></summary>
+
+<br>
+
+Em um dos meus projetos, a mosca que você tenta acertar **não tem nenhuma regra de fuga programada**. Ninguém escreveu `if perto: fugir`.
+
+Ela é pilotada por um pedaço do **cérebro real de uma _Drosophila_**: 21.739 neurônios e 3,5 milhões de sinapses do conectoma _hemibrain_, simulados mil vezes por segundo.
+
+Quando ela foge do mata-moscas, é a fiação de uma mosca de verdade decidindo. 🧠
+
+</details>
+
+<br>
+
+## 🧪 Laboratório
+
+<div align="center">
+  <img src="assets/lab.svg" width="100%" alt="Seis projetos: Neural Fly Swatter, PeakLens, Gerador de KB, Missão Secreta, .COM Portal e Toca-Discos 3D" />
+  <br>
+  <sub>Os repositórios são privados. Quer ver algum funcionando? <a href="https://www.linkedin.com/in/gabrielfsc002/">Me chama</a> que eu mostro.</sub>
+</div>
+
+<br>
+
+## 🎲 Verdade ou mentira?
+
+<sub>Chute antes de abrir.</sub>
+
+<details>
+<summary><b>1.</b> Eu fiz o site da lista de presentes do meu próprio casamento.</summary>
+<br>
+
+✅ **Verdade.** Catálogo, carrinho, Pix dinâmico e painel de administração. Cada presente sai da lista quando alguém dá. O noivo também era o dev.
+</details>
+
+<details>
+<summary><b>2.</b> Tenho um app que identifica as montanhas que você está vendo.</summary>
+<br>
+
+✅ **Verdade** (em construção). O PeakLens cruza a câmera e o GPS do celular com o relevo do satélite Copernicus e os picos do OpenStreetMap. Escrito em Rust e Kotlin, começando pelo Rio de Janeiro.
+</details>
+
+<details>
+<summary><b>3.</b> Nunca deixei um projeto pela metade.</summary>
+<br>
+
+❌ **Mentira.** Tenho uma pasta inteira de repositórios arquivados para provar. Mas cada um me ensinou algo que foi parar no próximo.
+</details>
+
+<details>
+<summary><b>4.</b> Um dos meus jogos usa dados de verdade de neurociência.</summary>
+<br>
+
+✅ **Verdade.** Abre o "🪰 Só tô curioso(a)" lá em cima.
+</details>
+
+<details>
+<summary><b>5.</b> Escrevo todo o código sozinho, sem ajuda nenhuma.</summary>
+<br>
+
+❌ **Mentira.** Trabalho junto com IA (Claude Code, Lovable) e não escondo isso. Eu decido o que construir e por quê, reviso tudo e garanto que funciona. A IA digita rápido.
+</details>
+
+<br>
+
+## 📡 Agora
+
+```diff
++ construindo   PeakLens: reconhecimento de montanhas no celular
++ estudando     Análise e Desenvolvimento de Sistemas · Estácio
++ melhorando    Ferramentas internas para o time de suporte
+- dormindo      o suficiente
 ```
 
 <br>
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
-
 <div align="center">
 
-#### 💼 Endpoint Management & IT
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Jamf](https://img.shields.io/badge/Jamf-6C2D91?style=for-the-badge&logo=jamf&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MDM](https://img.shields.io/badge/MDM-2C2C2C?style=for-the-badge&logo=mobileiron&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/output/github-snake-dark.svg" />
+</picture>
 
-#### 💻 Linguagens
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### 🚀 Frameworks & Ferramentas
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### ☁️ Backend & Deploy
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
-
-</div>
-
-<br>
-
-<!-- Currently Learning -->
-## 📚 Estudando atualmente
-
-<div align="center">
-
-| 🎯 Objetivo | 📖 Área | 📊 Progresso |
-|:---:|:---:|:---:|
-| React Avançado | Frontend | ![](https://geps.dev/progress/40) |
-| Vue.js | Frontend | ![](https://geps.dev/progress/35) |
-| Node.js | Backend | ![](https://geps.dev/progress/30) |
-| JavaScript ES6+ | Linguagem | ![](https://geps.dev/progress/50) |
-
-</div>
-
-<br>
-
-<!-- Connect -->
-## 🌐 Conecte-se comigo
-
-<div align="center">
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfsc002/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gfchagas/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielfernandessc)
+![Visitas](https://komarev.com/ghpvc/?username=gabrielfernandessc&color=70a5fd&style=for-the-badge&label=VISITAS)
+
+<sub>Este README passou na verificação de conformidade. ✓</sub>
 
 </div>
-
-<br>
-
-<!-- Profile Views -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielfernandessc&color=70a5fd&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
-
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielfernandessc/gabrielfernandessc/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d5986,100:70a5fd&height=120&section=footer"/>

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-label="Gabriel Fernandes: Analista de Suporte Pleno, Endpoint Management e Desenvolvimento Web">
+  <defs>
+    <linearGradient id="bar" x1="0" x2="1">
+      <stop offset="0" stop-color="#70a5fd"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.9">
+      <stop offset="0" stop-color="#2d5986" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0b1020" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c1"><rect x="36" y="70" height="30" width="0"><animate attributeName="width" from="0" to="640" begin="0.4s" dur="1.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="36" y="100" height="30" width="0"><animate attributeName="width" from="0" to="600" begin="2.2s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="36" y="130" height="30" width="0"><animate attributeName="width" from="0" to="680" begin="3.1s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="36" y="160" height="30" width="0"><animate attributeName="width" from="0" to="680" begin="3.9s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="36" y="190" height="30" width="0"><animate attributeName="width" from="0" to="680" begin="4.7s" dur="0.7s" fill="freeze"/></rect></clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .dim { fill: #8b949e; } .txt { fill: #e6edf3; } .acc { fill: #70a5fd; } .ok { fill: #3fb950; } .warm { fill: #f2cc60; }
+    </style>
+  </defs>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="999" height="419" rx="16" fill="#0b1020" stroke="#1f2a44"/>
+  <rect x="0.5" y="0.5" width="999" height="419" rx="16" fill="url(#glow)"/>
+  <path d="M0.5 44 H999.5" stroke="#1f2a44"/>
+  <circle cx="26" cy="22" r="6" fill="#ff5f57"/><circle cx="46" cy="22" r="6" fill="#febc2e"/><circle cx="66" cy="22" r="6" fill="#28c840"/>
+  <text x="500" y="27" text-anchor="middle" class="mono dim" style="font-size:13px">gabriel@endpoint — ~/perfil — enroll.sh</text>
+
+  <!-- lines -->
+  <g clip-path="url(#c1)">
+    <text x="36" y="90" class="mono"><tspan class="acc">$ </tspan><tspan class="txt">enroll --user "Gabriel Fernandes" --site "Rio de Janeiro, BR"</tspan></text>
+  </g>
+  <g clip-path="url(#c2)">
+    <text x="36" y="120" class="mono dim">› verificando conformidade do dispositivo .................</text>
+  </g>
+  <text x="590" y="120" class="mono ok" opacity="0">OK<animate attributeName="opacity" to="1" begin="2.9s" dur="0.1s" fill="freeze"/></text>
+
+  <g clip-path="url(#c3)">
+    <text x="36" y="150" class="mono"><tspan class="dim">› perfil  </tspan><tspan class="txt">Endpoint Management  </tspan><tspan class="dim">Intune · Jamf · Win · macOS</tspan></text>
+  </g>
+  <text x="590" y="150" class="mono ok" opacity="0">✓<animate attributeName="opacity" to="1" begin="3.8s" dur="0.1s" fill="freeze"/></text>
+
+  <g clip-path="url(#c4)">
+    <text x="36" y="180" class="mono"><tspan class="dim">› perfil  </tspan><tspan class="txt">Desenvolvimento Web  </tspan><tspan class="dim">React · TS · Next · Supabase</tspan></text>
+  </g>
+  <text x="590" y="180" class="mono ok" opacity="0">✓<animate attributeName="opacity" to="1" begin="4.6s" dur="0.1s" fill="freeze"/></text>
+
+  <g clip-path="url(#c5)">
+    <text x="36" y="210" class="mono"><tspan class="dim">› perfil  </tspan><tspan class="warm">Café ☕  </tspan><tspan class="dim">e projetos às 2h da manhã</tspan></text>
+  </g>
+  <text x="590" y="210" class="mono ok" opacity="0">✓<animate attributeName="opacity" to="1" begin="5.4s" dur="0.1s" fill="freeze"/></text>
+
+  <!-- progress -->
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" begin="5.6s" dur="0.2s" fill="freeze"/>
+    <rect x="36" y="232" width="640" height="10" rx="5" fill="#1a2440"/>
+    <rect x="36" y="232" width="0" height="10" rx="5" fill="url(#bar)">
+      <animate attributeName="width" from="0" to="640" begin="5.7s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    </rect>
+    <text x="700" y="242" class="mono txt" opacity="0">100%<animate attributeName="opacity" to="1" begin="7.1s" dur="0.1s" fill="freeze"/></text>
+  </g>
+
+  <!-- ring -->
+  <g transform="translate(870 160)">
+    <circle r="62" fill="none" stroke="#1a2440" stroke-width="8"/>
+    <circle r="62" fill="none" stroke="url(#bar)" stroke-width="8" stroke-linecap="round" stroke-dasharray="389.6" stroke-dashoffset="389.6" transform="rotate(-90)">
+      <animate attributeName="stroke-dashoffset" from="389.6" to="0" begin="2.2s" dur="4.9s" fill="freeze"/>
+    </circle>
+    <text y="8" text-anchor="middle" class="mono dim" style="font-size:22px">
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.2s" begin="0s" end="7.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" to="0" begin="7.1s" dur="0.1s" fill="freeze"/>
+      •••
+    </text>
+    <path d="M-24 2 L-7 19 L26 -16" fill="none" stroke="#3fb950" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="80" stroke-dashoffset="80">
+      <animate attributeName="stroke-dashoffset" to="0" begin="7.2s" dur="0.45s" fill="freeze"/>
+    </path>
+  </g>
+
+  <!-- identity -->
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" begin="7.4s" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="7.4s" dur="0.8s" fill="freeze"/>
+    <path d="M36 276 H964" stroke="#1f2a44" stroke-dasharray="4 6"/>
+    <text x="36" y="336" class="sans" style="font-size:46px;font-weight:800;letter-spacing:-1px" fill="#ffffff">Gabriel Fernandes</text>
+    <text x="38" y="374" class="sans" style="font-size:17px" fill="#b8c4d4">Analista de Suporte Pleno @ Stefanini  ·  Modern Workplace  ·  dev nas horas vagas</text>
+    <g transform="translate(818 312)">
+      <rect width="146" height="36" rx="18" fill="#0f2a1b" stroke="#238636"/>
+      <circle cx="22" cy="18" r="6" fill="#3fb950">
+        <animate attributeName="r" values="6;9;6" dur="1.6s" begin="8.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0.4;1" dur="1.6s" begin="8.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="38" y="24" class="mono ok" style="font-size:14px;font-weight:700">COMPLIANT</text>
+    </g>
+  </g>
+</svg>
